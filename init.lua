@@ -16,7 +16,7 @@ minetest.register_on_mods_loaded(function()
 						input.items[dest_pos] = ritem
 					end
 					if minetest.get_craft_result(input).item:is_empty()
-						and not(minetest.get_item_group(item.name, "force_asymmetric_crafts") == 1) then
+						and (minetest.get_item_group(item.name, "force_asymmetric_crafts") ~= 1) then
 						local sym_recipe = {}
 						for pos, ritem in pairs(input.items) do
 							local col = ((pos-1) % recipe.width)
