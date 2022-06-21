@@ -1,6 +1,6 @@
 # Symmetric crafts
 
-[![Build Status](https://travis-ci.org/louisroyer/minetest-symmetric-crafts.svg?branch=master)](https://travis-ci.org/louisroyer/minetest-symmetric-crafts) [![ContentDB](https://content.minetest.net/packages/louisroyer/symmetric_crafts/shields/title/)](https://content.minetest.net/packages/louisroyer/symmetric_crafts/) [![ContentDB](https://content.minetest.net/packages/louisroyer/symmetric_crafts/shields/downloads/)](https://content.minetest.net/packages/louisroyer/symmetric_crafts/)
+[![Build Status](https://louisroyer/minetest-symmetric-crafts/actions/workflows/main.yml/badge.svg) [![ContentDB](https://content.minetest.net/packages/louisroyer/symmetric_crafts/shields/title/)](https://content.minetest.net/packages/louisroyer/symmetric_crafts/) [![ContentDB](https://content.minetest.net/packages/louisroyer/symmetric_crafts/shields/downloads/)](https://content.minetest.net/packages/louisroyer/symmetric_crafts/)
 
 This minetest mod adds symmetric crafts.
 
