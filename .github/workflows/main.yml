@@ -14,7 +14,7 @@ on:
   workflow_dispatch:
   
 jobs:
-    sile:
+    luacheck:
       runs-on: ubuntu-latest
       steps:
         - name: Checkout
